@@ -1,4 +1,5 @@
-// Em um arquivo chamado exercicio07.ts crie uma interface chamada **Pessoa** com os seguintes atributos: *nome* do tipo string, *idade* do tipo numérico, *rua* do tipo string. Além disso, crie um método chamado *cadastrar()*.
+"use strict";
+exports.__esModule = true;
 var Aluno = /** @class */ (function () {
     function Aluno(valorNome, valorIdade, valorRua, valorMatricula, valorCadeiras) {
         this.nome = valorNome;
